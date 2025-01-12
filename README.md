@@ -20,11 +20,12 @@ This is a simple Snake game written in Rust using the `piston_window` crate for 
    cd snake_game
 2. Ensure you have Rust installed. If you don't, follow the installation instructions from the official Rust website.
 3. Add the required dependencies to Cargo.toml:
-  [dependencies]
-  piston_window = "0.120.0"
-  rand = "0.8"
-4. Build and run the game using Cargo:
-  cargo run
+   ```bash
+   [dependencies]
+   piston_window = "0.120.0"
+   rand = "0.8"
+5. Build and run the game using Cargo
+
 
 ## Code Explanation
 
